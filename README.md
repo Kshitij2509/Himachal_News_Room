@@ -13,6 +13,7 @@ This project is a news platform dedicated to providing the latest news and updat
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js
 - **Database**: MongoDB
+- *API**: News API (https://newsapi.org/)
 
 ## Workflow
 1. **Content Collection**: Gather news content from various sources.
